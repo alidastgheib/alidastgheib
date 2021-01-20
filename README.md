@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### About me
-##### I am an experienced researcher and developer of machine learning algorithms and deep learning models. I have a solid background in statistical learning theory as well as programming expertise in different frameworks and languages. 
+##### I am an experienced researcher and developer of machine learning algorithms and deep learning models. I have a solid background in statistical learning theory as well as programming competence in different frameworks and languages. 
