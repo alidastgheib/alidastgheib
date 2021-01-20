@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About
+### About me
 ##### I am an experienced researcher and developer of machine learning and deep learning algorithms. I have a solid background in statistical learning theory as well as programming expertise in different frameworks and languages. 
