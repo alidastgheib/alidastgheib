@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### About me
 #### I am an experienced researcher and developer in the fields of machine learning, data science, and deep learning.
 
-I love working with data to solve industry challenges, educating others about data's value, and helping ML engineers excel in their technical roles. My expertise and strengths include mathematics (optimization theory) and statistics (and stochastic processes), Python (Tensorflow, Pytorch, etc.), team building, and leadership.
+I love working with data to solve industry challenges, educating others about data's value, and helping ML engineers excel in their technical roles. My expertise and strengths include mathematics (optimization theory) and statistics (and stochastic processes), Python, team building, and leadership.
